@@ -1,6 +1,6 @@
 # apache_scribe_pipe
 
-I use this script to pip logs to Facebook's scribe from Apache's CustomLog directive
+I use this script to pipe logs to Facebook's scribe from Apache's CustomLog directive
 
 I pieced this together from the following two scripts online (I may have "written" one line of it at most):
 
